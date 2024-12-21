@@ -1,0 +1,25 @@
+{
+    "name": "itv-textanalyzer",
+    "version": "1.0.1",
+    "description": "Count words in a string",
+    "main": "app.js",
+    "type": "module",
+    "bin": {
+        "textanalyzer": "./app.js"
+    },
+    "scripts": {
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rabilal-dev/text-analyzer.git"
+    },
+    "keywords": [
+        "text",
+        "analyzer",
+        "word",
+        "count"
+    ],
+    "license": "MIT",
+    "author": "Rabilal Murmu rabilal.itv@gmail.com"
+}
